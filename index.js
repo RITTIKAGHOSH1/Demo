@@ -27,5 +27,7 @@ sec.innerText=s;
 
 setTimeout(updateCountdown,1000)
 
-console.log(h);
+    console.log(h);
+    
 }
+console.log()
